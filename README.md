@@ -23,8 +23,10 @@ Explore my work and progress:
 
 ## Certifications
 
-CompTIA Security+ (SY0-701): Valid through 2027   
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+CompTIA Security+ (SY0-701): Valid through 2027
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="60a23b0a-1de8-4d77-9c8b-020de55ad2dc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 eJPT (Junior Penetration Tester): Demonstrating hands-on penetration testing skills   
 
 ## Training 
