@@ -23,10 +23,9 @@ Explore my work and progress:
 
 ## Certifications
 
-<div>
-<p>CompTIA Security+ (SY0-701): Valid through 2027    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></p>
-<p>eJPT (Junior Penetration Tester): Demonstrating hands-on penetration testing skills    <img src="https://img.shields.io/badge/-eJPT%20Certified-FF0000?&style=for-the-badge&logo=INE&logoColor=white" /></p>
-</div>
+CompTIA Security+ (SY0-701): Valid through 2027   
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+eJPT (Junior Penetration Tester): Demonstrating hands-on penetration testing skills   
 
 ## Training 
 
