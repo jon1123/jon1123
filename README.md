@@ -1,5 +1,5 @@
 # Hello, I'm Jon Kuhl
-<a href="https://www.linkedin.com/in/jonmkuhl/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jonmkuhl/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 You may have noticed that my website hasn’t been updated recently. Due to the GetHub backend update in December, the latest posts are not appearing as expected. I plan to address this issue soon, but in the meantime, I’ll be adding links directly to the blog repository as a temporary solution. Thank you for your patience!
 
@@ -23,11 +23,8 @@ Explore my work and progress:
 
 ## Certifications
 
-CompTIA Security+ (SY0-701): Valid through 2027
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="60a23b0a-1de8-4d77-9c8b-020de55ad2dc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-eJPT (Junior Penetration Tester): Demonstrating hands-on penetration testing skills   
+- CompTIA Security+ (SY0-701): Valid through 2027 link on my blog's about page and LinkedIn profile for verifcation 
+- eJPT (Junior Penetration Tester): Demonstrating hands-on penetration testing skills   
 
 ## Training 
 
