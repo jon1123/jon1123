@@ -30,8 +30,8 @@ Explore my work and progress:
 
 #### Projects
 
-- Home Cyber Range with ProxMox
-- Bad USB
+- <a href="https://jon112358.com/posts/cyber-range-part-1/">Home Cyber Range with ProxMox</a>
+- <a href="https://jon112358.com/posts/bad_usb/">Bad USB</a>
 - WiFi Pinapple Clone with GL iNet mini router
 - P4wnP1_aloa - inprogress
   
