@@ -9,13 +9,6 @@ I am an experienced IT professional with a strong foundation in cybersecurity, t
 
 My technical journey is fueled by a passion for understanding both offensive and defensive security strategies, paired with a commitment to continuous learning and skill development. I am actively advancing my skills through practical exercises, including HackTheBox Academy’s Penetration Tester Role Path and completing over 30 HackTheBox machines.
 
-Certifications & Highlights:
-
- CompTIA Security+ (SY0-701): Valid through 2027
- eJPT (Junior Penetration Tester): Demonstrating hands-on penetration testing skills
- Hack The Box Academy: Completed Bug Bounty Hunter, SOC Analyst Prerequisites, and more (Rank: Hacker)
- TryHackMe: Completed Jr Penetration Tester, CompTIA Pentest+, Web Fundamentals, Complete Beginner, Pre Security, Introduction to Cyber Security, and over 168 rooms
-
 
 Explore my work and progress:
 
@@ -26,14 +19,42 @@ Explore my work and progress:
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically a Security Operations Center (SOC) as a Tier 1 Analyst, or Security Analyst role.
+  My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically a Security Operations Center (SOC) as a Tier 1 Analyst, or Security Analyst role.
+
+## Certifications
+
+<div>
+<p>CompTIA Security+ (SY0-701): Valid through 2027    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></p>
+<p>eJPT (Junior Penetration Tester): Demonstrating hands-on penetration testing skills    <img src="https://img.shields.io/badge/-eJPT%20Certified-FF0000?&style=for-the-badge&logo=INE&logoColor=white" /></p>
+</div>
+
+## Training 
+
+#### Projects
+
+- Home Cyber Range with ProxMox
+- Bad USB
+- WiFi Pinapple Clone with GL iNet mini router
+- P4wnP1_aloa - inprogress
+  
+#### Studding 
+
+ - Hack The Box Academy: Completed Bug Bounty Hunter, SOC Analyst Prerequisites, and more (Rank: Hacker)
+ - TryHackMe: Completed Jr Penetration Tester, CompTIA Pentest+, Web Fundamentals, Complete Beginner, Pre Security, Introduction to Cyber Security
+ - Forage: Cybersecurity for Telstra (SOC Alerts) 
+ - Udemy: Python for Data Science, Linux Terminal, and SQL 
+ - eLearnSecurity: Penetration Testing Student, Splunk 
 
 ## Skills
-<l>keep fixing this part</l>
 
- Offensive Security: Nmap, Burp Suite, Metasploit, Hydra, Hashcat, and more
- Systems: Proxmox, VirtualBox, WSL2, Linux (Arch, Debian-based), macOS
- Scripting: Python, Bash, SQL
+   - Monitoring & Analysis Tools: Wireshark, tcpdump, OpenVAS, Nessus, ZAP, Burp Suite 
+   - Threat Detection & Exploitation Tools: Nmap, Metasploit, Hydra, John the Ripper, Hashcat 
+   - Scripting & Automation: Python, Bash, SQL 
+   - Systems & Platforms: Linux (Debian-based, Arch), macOS, Windows Server, Active Directory 
+   - Home Lab: Proxmox-based virtual environments for practicing SIEM, IDS/IPS, and security monitoring 
+
+ 
+<!--
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -62,28 +83,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-5C2D91?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
-
-## Certifications
-
-<div>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />  <p>CompTIA Security+ (SY0-701): Valid through 2027</p>
-<img src="https://img.shields.io/badge/-eJPT%20Certified-0056FF?&style=for-the-badge&logo=INE&logoColor=white" /> <p>eJPT (Junior Penetration Tester): Demonstrating hands-on penetration testing skills</p>
-</div>
-
- Hack The Box Academy: Completed Bug Bounty Hunter, SOC Analyst Prerequisites, and more (Rank: Hacker)
- TryHackMe: Completed Jr Penetration Tester, CompTIA Pentest+, Web Fundamentals, Complete Beginner, Pre Security, Introduction to Cyber Security, and over 168 rooms
+-->
  
-## Projects
-- Home Cyber Range with ProxMox
-- Bad USB
-- WiFi Pinapple Clone with GL iNet mini router
-- 
 
+
+ How to reach me: jon112358@proton.me
+  
 <!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-
 
 - 📫 How to reach me: jon112358@proton.me
 
