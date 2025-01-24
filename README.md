@@ -30,6 +30,7 @@ Explore my work and progress:
 
 #### Projects
 
+- <a href="https://github.com/jon1123/blog/tree/main/content/posts">CTF's and other post</a>
 - <a href="https://jon112358.com/posts/cyber-range-part-1/">Home Cyber Range with ProxMox</a>
 - <a href="https://jon112358.com/posts/bad_usb/">Bad USB</a>
 - WiFi Pinapple Clone with GL iNet mini router
